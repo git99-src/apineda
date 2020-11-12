@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apineda/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/apineda/static/js/main.35f75053.chunk.js",
+    "main.js.map": "/apineda/static/js/main.35f75053.chunk.js.map",
+    "runtime-main.js": "/apineda/static/js/runtime-main.928a054d.js",
+    "runtime-main.js.map": "/apineda/static/js/runtime-main.928a054d.js.map",
+    "static/js/2.632446b5.chunk.js": "/apineda/static/js/2.632446b5.chunk.js",
+    "static/js/2.632446b5.chunk.js.map": "/apineda/static/js/2.632446b5.chunk.js.map",
+    "static/js/3.196a02d3.chunk.js": "/apineda/static/js/3.196a02d3.chunk.js",
+    "static/js/3.196a02d3.chunk.js.map": "/apineda/static/js/3.196a02d3.chunk.js.map",
+    "index.html": "/apineda/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/apineda/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.632446b5.chunk.js.LICENSE.txt": "/apineda/static/js/2.632446b5.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/apineda/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.928a054d.js",
+    "static/js/2.632446b5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.35f75053.chunk.js"
+  ]
+}
